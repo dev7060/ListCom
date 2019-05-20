@@ -11,7 +11,6 @@ Word Lists Combiner
   word1\n <br>
   word2\n <br>
   EOF <br>
-<br>
 * Output file format:<br>
   word1\n <br>
   word2\n <br>
