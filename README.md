@@ -16,4 +16,3 @@ Word Lists Combiner
   word2\n <br>
   EOF <br>
   
-### Contact me through Twitter: twitter.com/mbhups
